@@ -1,0 +1,19 @@
+{
+  "name": "space-battle",
+  "version": "0.0.1",
+  "description": "game space battle",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.1"
+  },
+  "engines": {
+    "node": "6.10.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
