@@ -4,7 +4,7 @@
   "description": "game space battle",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.18.2",
     "socket.io": "^2.0.1"
   },
   "engines": {
